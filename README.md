@@ -105,6 +105,4 @@ The project generates several key visualizations to help understand the data:
 Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request.
 antities, while high-priced items like MacBook Pro and iPhone also had substantial sales.
 
-## Contributions
 
-Contributions are welcome! If you have any suggestions or improvements, please create an issue or submit a pull request
